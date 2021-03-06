@@ -4,7 +4,8 @@ spring:
 
 ---
 spring:
-  profiles: devdddd
+  profiles: dev
+a: hhh
 eureka: 
   client: 
     service-url: 
