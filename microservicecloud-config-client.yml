@@ -5,8 +5,6 @@ spring:
 ---
 spring:
   profiles: dev
-  application: 
-    name: microservicecloud-config-gg
 eureka: 
   client: 
     service-url: 
