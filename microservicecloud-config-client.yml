@@ -5,7 +5,7 @@ spring:
 ---
 spring:
   profiles: dev
-a: hhh
+a: hh
 eureka: 
   client: 
     service-url: 
@@ -13,8 +13,6 @@ eureka:
 ---
 spring:
   profiles: test
-  application: 
-    name: microservicecloud-config-client
 eureka: 
   client: 
     service-url: 
